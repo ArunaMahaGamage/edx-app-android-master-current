@@ -1275,7 +1275,7 @@
         },
         "agreement" : {
             "url" : "edxapp://show_eula",
-            "text" : "edX Terms of Service and Honor Code"
+            "text" : "LearnTv Terms of Service and Honor Code"
         },
         "placeholder" : "",
         "defaultValue": false,
